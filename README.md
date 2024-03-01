@@ -8,7 +8,7 @@
 Больше информации обо мне (образование, прошлый опыт и т.п.) в [резюме]().
 
 #### Навыки
-**Python:** Pandas, Numpy, Scipy, Matplotlib, Seaborn, Plotly, BeautifulSoup, Requests, JSON.
+**Python:** Pandas, Numpy, Scipy, Matplotlib, Seaborn, Plotly, BeautifulSoup, Requests, JSON.<br>
 **SQL:** Работа со сложными запросами,
 использование подзапросов, соединений
 и условий, MySQL, PostgreSQL.<br>
