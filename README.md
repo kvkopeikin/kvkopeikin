@@ -5,7 +5,7 @@
 
 #### Контакты
 Email:    k.v.kopeikin@gmail.com <br>
-Telegram: t.me/k_kopeykin <br>
+Telegram: t.me/k_kopeikin <br>
 Телефон:  +60 1128182989 
 
 #### Навыки
