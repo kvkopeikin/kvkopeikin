@@ -9,7 +9,7 @@ Telegram: t.me/k_kopeikin <br>
 Телефон:  +60 1128182989 
 
 #### Навыки
-##### Python
+Python
 Pandas, Numpy, Scipy, <br>
 Matplotlib, Seaborn, Plotly, <br>
 BeautifulSoup, Requests, JSON, <br>
@@ -22,3 +22,4 @@ Jupyter Notebook.
 Проверка гипотез, A/B-тесты.
 ##### Визуализациия данных
 Tableau, DataLens
+<h1 color="#218bff">Этот текст должен быть #218bff</h1>
