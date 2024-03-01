@@ -9,17 +9,14 @@ Telegram: t.me/k_kopeikin <br>
 Телефон:  +60 1128182989 
 
 #### Навыки
-Python: Pandas, Numpy, Scipy, <br>
+**Python:** Pandas, Numpy, Scipy, <br>
 Matplotlib, Seaborn, Plotly, <br>
 BeautifulSoup, Requests, JSON, <br>
 Jupyter Notebook.
-##### SQL
-Работа со сложными запросами,
+**SQL:** Работа со сложными запросами,
 использование подзапросов, соединений
 и условий, MySQL, PostgreSQL.
-##### Основы статистики
-Проверка гипотез, A/B-тесты.
-##### Визуализациия данных
-Tableau, DataLens
+**Основы статистики:** Проверка гипотез, A/B-тесты.
+**Визуализациия данных:** Tableau, DataLens
 
-<a >blue color</a>
+
