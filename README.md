@@ -23,3 +23,4 @@ Jupyter Notebook.
 ##### Визуализациия данных
 Tableau, DataLens
 <h1 color="#218bff">Этот текст должен быть #218bff</h1>
+<font color="#gray">Этот текст должен быть серым, а получается зеленым</font> 
