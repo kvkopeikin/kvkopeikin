@@ -9,8 +9,7 @@ Telegram: t.me/k_kopeikin <br>
 Телефон:  +60 1128182989 
 
 #### Навыки
-Python
-Pandas, Numpy, Scipy, <br>
+Python: Pandas, Numpy, Scipy, <br>
 Matplotlib, Seaborn, Plotly, <br>
 BeautifulSoup, Requests, JSON, <br>
 Jupyter Notebook.
@@ -22,5 +21,5 @@ Jupyter Notebook.
 Проверка гипотез, A/B-тесты.
 ##### Визуализациия данных
 Tableau, DataLens
-<h1 color="#218bff">Этот текст должен быть #218bff</h1>
-<font color="#gray">Этот текст должен быть серым, а получается зеленым</font> 
+
+<span style="color:blue">some *blue* text</span>.
