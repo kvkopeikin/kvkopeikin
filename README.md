@@ -5,7 +5,7 @@
 
 Ознакомиться с выполненными проектами можно [здесь](https://github.com/kvkopeikin/portfolio.git).
 
-Больше информации обо мне (образование, прошлый опыт и т.п.) в [резюме]().
+Больше информации обо мне (образование, прошлый опыт и т.п.) в [резюме](https://github.com/kvkopeikin/cv/blob/ccaef5d780494549547dc58a1840eabe89811872/CV.pdf).
 
 ### Навыки
 **Python:** Pandas, Numpy, Scipy, Matplotlib, Seaborn, Plotly, BeautifulSoup, Requests, JSON.<br>
