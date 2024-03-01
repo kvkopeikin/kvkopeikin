@@ -12,11 +12,11 @@ Telegram: t.me/k_kopeikin <br>
 **Python:** Pandas, Numpy, Scipy, <br>
 Matplotlib, Seaborn, Plotly, <br>
 BeautifulSoup, Requests, JSON, <br>
-Jupyter Notebook.
+Jupyter Notebook.<br>
 **SQL:** Работа со сложными запросами,
 использование подзапросов, соединений
-и условий, MySQL, PostgreSQL.
-**Основы статистики:** Проверка гипотез, A/B-тесты.
+и условий, MySQL, PostgreSQL.<br>
+**Основы статистики:** Проверка гипотез, A/B-тесты.<br>
 **Визуализациия данных:** Tableau, DataLens
 
 
