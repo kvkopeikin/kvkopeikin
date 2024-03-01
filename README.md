@@ -10,9 +10,9 @@ Telegram: t.me/k_kopeykin <br>
 
 #### Навыки
 ##### Python
-Pandas, Numpy, Scipy,
-Matplotlib, Seaborn, Plotly,
-BeautifulSoup, Requests, JSON,
+Pandas, Numpy, Scipy, <br>
+Matplotlib, Seaborn, Plotly, <br>
+BeautifulSoup, Requests, JSON, <br>
 Jupyter Notebook.
 ##### SQL
 Работа со сложными запросами,
@@ -21,5 +21,4 @@ Jupyter Notebook.
 ##### Основы статистики
 Проверка гипотез, A/B-тесты.
 ##### Визуализациия данных
-Tableau
-DataLens
+Tableau, DataLens
