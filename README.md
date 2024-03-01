@@ -22,4 +22,4 @@ Jupyter Notebook.
 ##### Визуализациия данных
 Tableau, DataLens
 
-<span style="color:blue">some *blue* text</span>.
+<a >blue color</a>
