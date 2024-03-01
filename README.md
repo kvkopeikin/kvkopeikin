@@ -14,7 +14,7 @@ Jupyter Notebook.<br>
 **Визуализациия данных:** Tableau, DataLens
 #### Контакты
 Email:    k.v.kopeikin@gmail.com <br>
-Telegram: t.me/k_kopeikin <br>
+Telegram: [t.me/k_kopeikin](https://t.me/k_kopeikin) <br>
 Телефон:  +60 1128182989 
 #### Выполненные проекты
 |Название проекта|Сферы деятельности|Задачи проекта|Навыки и инструменты|
